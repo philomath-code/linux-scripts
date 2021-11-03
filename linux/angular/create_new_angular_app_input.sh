@@ -14,7 +14,7 @@ echo
 Dashes="<|>---------------------------------------<|>"
 echo $Dashes
 echo $WrittenBy
-
+# echo $GithubContact
 echo $Dashes
 echo
 echo "create a new angular application"
