@@ -1,0 +1,6 @@
+microsoft website for additional information
+https://docs.microsoft.com/en-us/dotnet/core/install/linux-fedora
+
+command to install the .net6 SDK(contains both sdk and runtime)
+
+sudo dnf install dotnet-sdk-6.0
