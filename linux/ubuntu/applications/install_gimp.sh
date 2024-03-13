@@ -1,0 +1,5 @@
+
+sudo snap install gimp
+
+
+
